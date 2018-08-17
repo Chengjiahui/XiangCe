@@ -1,0 +1,19 @@
+{"code":1,
+"message":"操作成功",
+"data":[
+	{
+	"id":1,
+	"name":"家乡",
+	"img":"photo/hometown.jpg",
+	},
+	  {
+	"id":2,
+	"name":"风景",
+	"img":"photo/photo.jpg",
+	},
+	{
+	"id":3,
+	"name":"自拍",
+	"img":"photo/scenery.jpg",
+	},
+]}
